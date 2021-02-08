@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Harshwardhan Praveen</title>
-    <link>/series/</link>
+    <link>hsharsh.github.io/series/</link>
     <description>Recent content in Series on Harshwardhan Praveen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="hsharsh.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blog</title>
-      <link>/series/blog/</link>
+      <link>hsharsh.github.io/series/blog/</link>
       <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/series/blog/</guid>
+      <guid>hsharsh.github.io/series/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Post</title>
-      <link>/series/post/</link>
+      <link>hsharsh.github.io/series/post/</link>
       <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/series/post/</guid>
+      <guid>hsharsh.github.io/series/post/</guid>
       <description></description>
     </item>
     

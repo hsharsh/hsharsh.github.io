@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Harshwardhan Praveen</title>
-    <link>/</link>
+    <link>hsharsh.github.io/</link>
     <description>Recent content on Harshwardhan Praveen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="hsharsh.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Testing blog posts</title>
-      <link>/posts/testing-blog-posts/</link>
+      <link>hsharsh.github.io/posts/testing-blog-posts/</link>
       <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/testing-blog-posts/</guid>
+      <guid>hsharsh.github.io/posts/testing-blog-posts/</guid>
       <description>This is a line This is another line.</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>/about/</link>
+      <link>hsharsh.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>hsharsh.github.io/about/</guid>
       <description>I am first year PhD student in the department of Civil and Environmental Engineering at Cornell University. I am currently working with Prof. Christopher J. Earls as a part of Earls Group at Cornell University, where I am broadly working on Physics-inspired Machine Learning methods. I really enjoy working on the intersection of math, physics, and programming.
 I completed my Integrated Masters in Technology in Mechanical Engineering from IIT Hyderabad in 2020 with Prof.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>hsharsh.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>hsharsh.github.io/contact/</guid>
       <description>You can reach me by Mail or on Telegram</description>
     </item>
     
     <item>
       <title>First snippet</title>
-      <link>/snippets/first/</link>
+      <link>hsharsh.github.io/snippets/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/snippets/first/</guid>
+      <guid>hsharsh.github.io/snippets/first/</guid>
       <description>This content is in snippets/first/index.md
 pwd </description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>/projects/</link>
+      <link>hsharsh.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/</guid>
+      <guid>hsharsh.github.io/projects/</guid>
       <description>My research interests include Machine Learning, Gaussian Processes, and Computational Mechanics. I am also interested in algorithms and optimization.
 Research Projects   Dynamic Explicit Finite Element package for crack modeling using Floating Node Method
 Master&amp;rsquo;s Thesis (under the guidance of Prof. Syed Nizamuddin Khaderi)
@@ -65,10 +65,10 @@ Materials and Manufacturing Technology Lab, Boeing Research and Technology, Bang
     
     <item>
       <title>Second snippet</title>
-      <link>/snippets/second/</link>
+      <link>hsharsh.github.io/snippets/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/snippets/second/</guid>
+      <guid>hsharsh.github.io/snippets/second/</guid>
       <description>This content is in snippets/second/index.md
 ls -la </description>
     </item>
