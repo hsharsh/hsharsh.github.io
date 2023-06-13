@@ -59,12 +59,6 @@ icon = "fa fa-2x fa-github"
 weight = 1
 url = "https://github.com/hsharsh/"
 
-# [[params.social]]
-# name = "Gitlab"
-# icon = "fa fa-2x fa-gitlab"
-# weight = 2
-# url = "https://gitlab.com/johndoe/"
-
 [[params.social]]
 name = "Twitter"
 icon = "fa fa-2x fa-twitter"
@@ -82,14 +76,6 @@ name = "Instagram"
 icon = "fa fa-2x fa-instagram"
 weight = 5
 url = "https://www.instagram.com/praveen_harsh/"
-
-# [[params.social]]
-# name = "RSS"
-# icon = "fa fa-2x fa-rss"
-# weight = 6
-# url = "https://myhugosite.com/index.xml"
-# rel = "alternate"
-# type = "application/rss+xml"
 
 [languages.en]
 languageName = ":uk:"
