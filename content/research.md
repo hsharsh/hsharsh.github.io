@@ -3,7 +3,7 @@ title = "Research"
 slug = "research"
 +++
 
-My research interests include Machine Learning, Gaussian Processes, and Computational Physics. I am also interested in algorithms and optimization. My research thesis is broadly focused on learning Green's functions from data.
+My research interests include Scientific Machine Learning (SciML), Gaussian Processes, and Computational Physics. I am also interested in algorithms and optimization. My research thesis is broadly focused on learning Green's functions from data.
 
 ## Publications
  - Praveen, H., Boullé, N., Earls, C.J. (2022) “[Principled interpolation of Green’s functions learned from data](https://www.sciencedirect.com/science/article/pii/S0045782523000944?dgcid=coauthor),” Computer Methods in Applied Mechanics and Engineering, Elsevier, Vol. 409, 115971 [arXiv:2211.06299](https://arxiv.org/abs/2211.06299)
