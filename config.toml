@@ -17,7 +17,7 @@ author = "Harshwardhan Praveen"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Harshwardhan Praveen's personal website"
 keywords = "blog,developer,personal"
-info = ["A music and math lover who codes."]
+info = ["PhD Candidate, Cornell University | SciML Researcher"]
 avatarURL = "images/avatar.jpeg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
